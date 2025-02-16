@@ -5,44 +5,38 @@
       "username": "user1",
       "email": "user1@example.com",
       "password": "hashed_password_1"
-    },
-    {
-      "id": "2",
-      "username": "user2",
-      "email": "user2@example.com",
-      "password": "hashed_password_2"
-    },
-    {
-      "id": "5040",
-      "username": "duc",
-      "email": "duc@gmail.com",
-      "password": "123456"
-    },
-    {
-      "id": "0df2",
-      "username": "duc2k3",
-      "email": "duc2k3@gmail.com",
-      "password": "312321"
-    },
-    {
-      "id": "e797",
-      "username": "ereqr",
-      "email": "duc2k3@gmail.comds",
-      "password": "e423"
     }
   ],
   "posts": [
     {
       "id": "1",
       "title": "First Post",
-      "authorID": 1,
-      "content": "This is the content of the first post."
+      "authorID": "1",
+      "content": "We’ve ditched the default Sass map merges to make it easier to remove redundant values. Keep in mind you now have to define all values in the Sass maps like $theme-colors.Check out how to deal with Sass maps."
     },
     {
-      "id": "2",
-      "title": "Second Post",
-      "authorID": 2,
-      "content": "This is the content of the second post."
+      "id": "1",
+      "title": "2nd Post",
+      "authorID": "1",
+      "content": "We’ve ditched the default Sass map merges to make it easier to remove redundant values. Keep in mind you now have to define all values in the Sass maps like $theme-colors.Check out how to deal with Sass maps."
+    },
+    {
+      "id": "1",
+      "title": "3nd Post",
+      "authorID": "1",
+      "content": "We’ve ditched the default Sass map merges to make it easier to remove redundant values. Keep in mind you now have to define all values in the Sass maps like $theme-colors.Check out how to deal with Sass maps."
+    },
+    {
+      "id": "f989",
+      "title": "Title 3",
+      "content": "abab",
+      "authorID": "1"
+    },
+    {
+      "id": "786a",
+      "title": "Title 4",
+      "content": "ada",
+      "authorID": "1"
     }
   ]
 }
